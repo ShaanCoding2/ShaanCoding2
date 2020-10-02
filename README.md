@@ -2,7 +2,9 @@
 
 # Hi, I'm Shaan
 
-Hi, I'm Shaan - a first year Computer Science student studying at the University of Technology Sydney. I like experimenting with new technologies, building small projects and occasionally tinkering with electronics.
+Hi, I'm Shaan (ALT) - a first year Computer Science student studying at the University of Technology Sydney. I like experimenting with new technologies, building small projects and occasionally tinkering with electronics.
+
+* If you're accessing this account, you're most likely viewing one of my tutorials or have accidently stumbled on my testing account, to view my main please go here [ShaanCoding](https://github.com/ShaanCoding)
 
 ## Here's a list of things I currently keep myself busy with:
 
